@@ -1,4 +1,4 @@
-#This is used to practice my coding using boolean operators :)
+#practicing my coding using boolean operators :)
 #POV = a roll coaster needs a new entry system with the height requirement is 137cm and the cost of a ticket is 10 credits 
 #learning with Codedex :) 
 
